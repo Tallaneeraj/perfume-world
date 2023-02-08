@@ -132,3 +132,18 @@ h2{
     justify-content: center;
     border-radius: 3%;
 }
+
+#footer{
+    text-align: center;
+    padding: 20px;
+
+}
+
+#footer h3{
+    margin: 0;
+}
+
+#footer p{
+
+    margin: 10px 0 0 0;
+}
